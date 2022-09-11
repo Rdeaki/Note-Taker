@@ -1,6 +1,18 @@
 [
+
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "id": "0",
+        "title": "make car go vroom",
+        "text": "fill up gas tank"
+    },
+    {
+        "id": "1",
+        "title": "PUSH UPS",
+        "text": "start day with push ups!"
+    },
+    {
+        "id": "2",
+        "title": "food",
+        "text": "get some grub"
     }
 ]
